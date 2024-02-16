@@ -131,7 +131,7 @@
     <ClInclude Include="ItemType.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AUList.cpp" />
+    <ClCompile Include="ASList.cpp" />
     <ClCompile Include="ItemType.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

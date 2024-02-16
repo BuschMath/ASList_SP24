@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AUList.cpp">
+    <ClCompile Include="ASList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ItemType.cpp">
